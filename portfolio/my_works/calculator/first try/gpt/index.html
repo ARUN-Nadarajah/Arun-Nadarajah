@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="content">
+        <div class="display">
+            <div class="screen">
+                <!-- Change: Added an input field for the display -->
+                <input type="text" id="display" disabled>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <!-- Change: Added id="clear" to the clear button -->
+                <div class="num"><input id="clear" type="button" value="C"></div>
+                <!-- Change: Changed id from "root" to "sqrt" -->
+                <div class="num"><input id="sqrt" type="button" value="√"></div>
+                <div class="num"><input id="del" type="button" value="DEL"></div>
+                <div class="num"><input id="add" type="button" value="+"></div>
+            </div>
+            <div class="row">
+                <!-- Simplified id names for numbers -->
+                <div class="num"><input id="btn1" type="button" value="1"></div>
+                <div class="num"><input id="btn2" type="button" value="2"></div>
+                <div class="num"><input id="btn3" type="button" value="3"></div>
+                <div class="num"><input id="sub" type="button" value="-"></div>
+            </div>
+            <div class="row">
+                <div class="num"><input id="btn4" type="button" value="4"></div>
+                <div class="num"><input id="btn5" type="button" value="5"></div>
+                <div class="num"><input id="btn6" type="button" value="6"></div>
+                <div class="num"><input id="div" type="button" value="/"></div>
+            </div>
+            <div class="row">
+                <div class="num"><input id="btn7" type="button" value="7"></div>
+                <div class="num"><input id="btn8" type="button" value="8"></div>
+                <div class="num"><input id="btn9" type="button" value="9"></div>
+                <div class="num"><input id="mul" type="button" value="*"></div>
+            </div>
+            <div class="row">
+                <div class="num"><input id="btn0" type="button" value="0"></div>
+                <!-- Change: Added id="btn00" for the double zero button -->
+                <div class="num"><input id="btn00" type="button" value="00"></div>
+                <div class="num"><input id="dot" type="button" value="."></div>
+                <div class="num"><input id="eql" type="button" value="="></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
