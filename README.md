@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+it is my first work and i created my personal portfolio for my self
+
 <!--
 **ARUN-Nadarajah/Arun-Nadarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
