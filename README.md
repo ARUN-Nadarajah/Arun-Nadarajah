@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arun Nadarajah</h1>
 <h3 align="center">A passionate Developer from Srilanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-nadarajah&label=Profile%20views&color=0e75b6&style=flat" alt="gjcv" /> </p>
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **nadarajaharun.2003@gmail.com**
