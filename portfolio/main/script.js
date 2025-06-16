@@ -36,10 +36,10 @@ function toggleContact(){
 function togglemode(){
     document.body.classList.toggle('dark-theme');
     if(document.body.classList.contains('dark-theme')){
-        theme.src= '/pics/brightness.png';
+        theme.src= '/portfolio/pics/brightness.png';
         // console.log('hell');
     }else{
-        theme.setAttribute('src', '/pics/moon.png');
+        theme.setAttribute('src', '/portfolio/pics/moon.png');
         // console.log('no');
     }
 }
