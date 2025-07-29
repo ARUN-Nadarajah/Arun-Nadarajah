@@ -7,7 +7,7 @@
 
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - TypeScript, TailwindCSS, and full-stack architecture
-- - Fundamentals of AI & Machine Learning (NLP, recommendation systems)
+- Fundamentals of AI & Machine Learning (NLP, recommendation systems)
 
 🚧 **Currently Building**:
 **JobHub** – A full-stack student job platform with AI-powered resume analysis and career guidance (WIP)
