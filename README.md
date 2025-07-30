@@ -15,7 +15,6 @@
 - Resume analysis using NLP  
 - Smart job and role recommendations  
 - Personalized learning paths and career insights
-  
 
 ### 📫 Reach Me
 
