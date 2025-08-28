@@ -9,13 +9,6 @@
 - TypeScript, TailwindCSS, and full-stack architecture
 - Fundamentals of AI & Machine Learning (NLP, recommendation systems)
 
-🚧 **Currently Building**:
-**JobHub** – A full-stack student job platform with AI-powered resume analysis and career guidance (WIP)
-🎯 Upcoming AI Features:
-- Resume analysis using NLP  
-- Smart job and role recommendations  
-- Personalized learning paths and career insights
-
 ### 📫 Reach Me
 
 - 📧 Email: **nadarajaharun.2003@gmail.com**
